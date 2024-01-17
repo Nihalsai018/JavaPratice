@@ -6,6 +6,8 @@ class counstructor {
 
     public long number;
 
+    public int num;
+
     public counstructor() {
 //        name ="nihal";
 //        id=07;
@@ -52,7 +54,7 @@ class counstructor {
     public static void main(StringOne[] args) {
 
 //       counstructor c1=new counstructor("nihalsai",9,"products",950504498);
-//       counstructor c2=new counstructor("kanna");
+//       counstructor c2=new counstructor("kanna");git
 //       counstructor c3=new counstructor();
 //        System.out.println(c1.getName());
 
