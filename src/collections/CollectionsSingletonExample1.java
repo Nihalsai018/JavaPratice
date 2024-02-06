@@ -9,7 +9,7 @@ public class CollectionsSingletonExample1 {
         System.out.println(list);
         list.remove(1);
         System.out.println(list);
-      //  Collections.singleton(4);
+      //  Collections.singleton(4);  
         list.removeAll(Collections.singleton(4));
         System.out.println(list+" removing 4");
 
