@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÖºÆûÿÿÿÿ8ŸœÎ³2J$617567ea-10e4-44eb-a6b3-0df92edea251
+r	java:S106"+Replace this use of System.out by a logger.(ÑªÂ´ıÿÿÿÿ8ºœÎ³2J$0f4d38c6-266b-4b81-8b12-1a7676ad4e01
+m	java:S106"+Replace this use of System.out by a logger.(¹¨Û8»œÎ³2J$929be6a8-2c13-430c-a62e-ed589f9c25bf
+r	java:S106"+Replace this use of System.out by a logger.(±÷Ğ¯üÿÿÿÿ8¿œÎ³2J$499a6b9b-03ff-48eb-9601-3f95cdfc5701
+m	java:S106"+Replace this use of System.out by a logger.(şòßè8ÓœÎ³2J$679401cc-30d1-47d3-b502-74e323aabc0c
+m	java:S106"+Replace this use of System.out by a logger.(ìÁåâ8ÔœÎ³2J$873a1e04-37a1-4328-9936-26c2fc072f76
+r	java:S106"+Replace this use of System.out by a logger.(Š€Öİùÿÿÿÿ8ÖœÎ³2J$ccaaadd6-2801-447d-aae8-45c208d8660b
+r	java:S106"+Replace this use of System.out by a logger.(­Ÿˆªÿÿÿÿÿ8¤Ñ³2J$b113389f-0557-4bfd-b071-72164d478a1e
+w
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ÚœÎ³2J$c2ea1f32-a5fa-45f5-b2e4-0370ec4e54ed

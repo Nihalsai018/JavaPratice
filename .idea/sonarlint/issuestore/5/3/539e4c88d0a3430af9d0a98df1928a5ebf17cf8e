@@ -1,0 +1,12 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ç¦–‹
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïí¢n
+6
+java:S2326"I is not used in the class.(îì§Öüÿÿÿÿ
+E
+java:S1197	"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ìÒÁ
+Q	java:S125"<This block of commented-out lines of code should be removed.(í·çÜ
+E	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ

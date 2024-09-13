@@ -1,0 +1,26 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©Èüÿÿÿÿ8´şËÑ2J$b834182d-5bbe-48be-b2b6-78aab5ba63f6
+‡
+java:S1854="?Remove this useless assignment to local variable "personsList".(ıøÓ—üÿÿÿÿ8’ÎÑ2J$43120f8c-64ce-4dd1-8a42-4ed60160d0fc
+x
+java:S1481="0Remove this unused "personsList" local variable.(ıøÓ—üÿÿÿÿ8•ÎÑ2J$e9e7b7ec-ecf9-484e-9bbf-b6f44a18a938
+ƒ	java:S125C"<This block of commented-out lines of code should be removed.(ÙúËôùÿÿÿÿ8ÊşËÑ2J$ca522e4b-4603-4bda-ad7a-11a9fdae6919
+ƒ	java:S125O"<This block of commented-out lines of code should be removed.(åÓãïÿÿÿÿÿ8ÊşËÑ2J$63d161ce-d5a4-4a0b-b5f3-8d0ec56c525a
+ƒ	java:S125S"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8ÊşËÑ2J$4b789a4c-de04-422e-a0a3-9dd09c8a9dc6
+}	java:S125X"<This block of commented-out lines of code should be removed.(¬éÚk8ÍşËÑ2J$66bb9f5a-501b-4654-b0c8-03185899a0d3
+~	java:S125_"<This block of commented-out lines of code should be removed.(ë›”ÿ8ÍşËÑ2J$a424dc17-e588-4da5-a751-cd9f664558ea
+ƒ	java:S125g"<This block of commented-out lines of code should be removed.(¾ÕÍüüÿÿÿÿ8ÎşËÑ2J$f434c633-5fc5-4142-a870-2338c606f8a3
+ƒ	java:S125n"<This block of commented-out lines of code should be removed.(™ßŠÿşÿÿÿÿ8ÎşËÑ2J$1cde4452-c431-4ded-bb90-0a79136d01f9
+w
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8“ØÍÑ2J$f66d7382-3180-4cf0-bc39-64b0615af59f
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8“ØÍÑ2J$ae45b583-5c90-4462-9b4a-52c28fdde8eb
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8“ØÍÑ2J$173143bb-e8ed-4a21-b4df-3b030d14f34a
+{
+java:S1128	"8Remove this unused import 'java.util.function.Function'.(»³Í8”ØÍÑ2J$23414827-3851-4c63-adfa-4ae1b0370551
+€
+java:S1128
+"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8”ØÍÑ2J$da0d002f-b5ad-4880-ae2a-2e33c56cb9ef
+w
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8”ØÍÑ2J$c8b02b98-8c07-46e0-a826-d8544e68410c

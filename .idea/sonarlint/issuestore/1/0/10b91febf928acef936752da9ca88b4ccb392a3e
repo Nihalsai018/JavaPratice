@@ -1,0 +1,35 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©Èüÿÿÿÿ8§ğÙ´2J$439d0a09-5ada-4ff7-a365-e4612d4a99c4
+‚
+java:S1854G"@Remove this useless assignment to local variable "resultReduce".(ô¤öJ8¯ğÙ´2J$eccdc665-6f6b-468e-90b3-f80cef3b0bd2
+r	java:S106."+Replace this use of System.out by a logger.(Œò¿¸úÿÿÿÿ8²ğÙ´2J$7c383fd3-fe30-4658-8dac-13ac40f83f9c
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(½ãÄ¥ûÿÿÿÿ8³ğÙ´2J$faafad31-0ff8-40e9-8c6b-5004f99d2c6f
+~	java:S125!"<This block of commented-out lines of code should be removed.(ÿ•°ñ8³ğÙ´2J$15ce6910-a86e-49d2-9aa5-bc65353db957
+~	java:S125,"<This block of commented-out lines of code should be removed.(öùÚø8³ğÙ´2J$68a527f1-eacc-4428-9558-12c2a537c464
+m	java:S1061"+Replace this use of System.out by a logger.(ê‹õœ8´ğÙ´2J$3d80afad-af35-47d1-840e-bb2e1e154a19
+¼
+java:S62042"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(üûôp8¶ğÙ´2J$0969c488-ee17-4856-b5fa-39756153e341
+r	java:S1063"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8·ğÙ´2J$eda22313-ab7b-4e4a-a9c0-8434ad12621c
+l	java:S1065"+Replace this use of System.out by a logger.(Ğá‹q8·ğÙ´2J$5e765104-59a0-4fc4-aa7d-054614068f97
+ˆ
+java:S16127"@Replace this lambda with method reference 'System.out::println'.(áê˜Õúÿÿÿÿ8¹ğÙ´2J$c66a7f0e-10d4-4766-b85a-9efdc8389c67
+r	java:S1067"+Replace this use of System.out by a logger.(áê˜Õúÿÿÿÿ8¹ğÙ´2J$04b1db3c-c38e-40b2-8586-0a7b50473be0
+r	java:S1068"+Replace this use of System.out by a logger.(ÛÚãèıÿÿÿÿ8ºğÙ´2J$4d927f2f-934e-4ac4-89f0-e36954010c6e
+m	java:S1069"+Replace this use of System.out by a logger.(œÔØ8»ğÙ´2J$cee5c668-2dea-4868-aed4-4e5f72e972e4
+r	java:S106;"+Replace this use of System.out by a logger.(ûÖ‰Âùÿÿÿÿ8»ğÙ´2J$2ab94a62-df71-4ab3-bd4d-7035cd75dfba
+m	java:S106<"+Replace this use of System.out by a logger.(÷ü¢Ï8¼ğÙ´2J$492ac9aa-9588-4057-b219-6cf972e01e0b
+l	java:S106="+Replace this use of System.out by a logger.(îòM8½ğÙ´2J$abd0074e-fe79-46fe-8aae-66a20a9cb247
+m	java:S106?"+Replace this use of System.out by a logger.(àºŒö8½ğÙ´2J$d7501abf-0975-476e-97ae-353cb9612685
+r	java:S106A"+Replace this use of System.out by a logger.(ì‘ä¢ıÿÿÿÿ8¾ğÙ´2J$d6a6914f-b692-4dab-bfb9-7df04bdb39e9
+r	java:S106D"+Replace this use of System.out by a logger.(ô£ô±üÿÿÿÿ8ÀğÙ´2J$8d4661f3-70b5-4d47-9d09-ee96d21d84b2
+s
+java:S1481G"1Remove this unused "resultReduce" local variable.(ô¤öJ8ÁğÙ´2J$6c122b78-a72b-47e5-95e6-3d19b23367a2
+r	java:S106H"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ÂğÙ´2J$59cfae6a-5d83-4fed-867e-7bedf84a2345
+r	java:S106M"+Replace this use of System.out by a logger.(ºÄÔ­úÿÿÿÿ8ÂğÙ´2J$574524e8-bc34-4e46-83ce-a69be259f2a9
+m	java:S106O"+Replace this use of System.out by a logger.(Ãš¬Í8ÃğÙ´2J$b2d9dd90-98db-4998-8b27-987fc8a65b99
+r	java:S106Y"+Replace this use of System.out by a logger.(Öé“ÿÿÿÿÿ8ÄğÙ´2J$da929547-96d7-431a-a1b2-19300e95e79e
+r	java:S106["+Replace this use of System.out by a logger.(Êãíüÿÿÿÿ8˜Û´2J$c22329ff-57d4-47de-9c42-5ece9c1d244f
+‚
+java:S1128"?Remove this unused import 'java8.MethodRefrenceP.PracticeTest'.(ŸòÔ8ÆÏ»2J$1bbc7807-88eb-45fa-9527-04800db0f5bc
+r
+java:S1128	"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ÆÏ»2J$72ac809e-dd14-4785-b73e-222a532d463b

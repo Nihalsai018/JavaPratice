@@ -1,0 +1,51 @@
+
+‰
+java:S1192)"FDefine a constant instead of duplicating this literal "nihal" 3 times.(½€¸8ÚÙË‘2J$dd5d9c17-a3a0-41ca-b2c6-3c63d184073e
+à
+java:S11922"œDefine a constant instead of duplicating this literal "-------------------------------------------------------------------------------------------" 3 times.(© éó8ÜÙË‘2J$0d2b4028-ab9e-4834-ae37-2e24a8770eab
+“
+java:S1192"PDefine a constant instead of duplicating this literal " is successful!" 3 times.(åš¡Ã8ÜÙË‘2J$ab88d5cb-9702-489d-b9fd-191e2a99ed10
+Š
+java:S1192)"GDefine a constant instead of duplicating this literal "nikhil" 3 times.(½€¸8ÜÙË‘2J$6341f474-53b5-4860-92b2-5edbc0710a4f
+‘
+java:S1192"NDefine a constant instead of duplicating this literal "Payment from " 3 times.(åš¡Ã8ÜÙË‘2J$19b53324-c56b-4965-bfbc-8004efe23a13
+k
+java:S1604"(Make this anonymous inner class a lambda(‚ïÑœ8ŞÙË‘2J$02123eb7-6dcb-4d09-a2c9-91439551e116
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒøÛıÿÿÿÿ8âÙË‘2J$82489bbc-fd90-42f6-9be2-074b4e4fd0a7
+
+java:S1854"=Remove this useless assignment to local variable "payemnts1".(¸ÄW8ıÙË‘2J$bdafb099-6a95-418c-b184-ce8d01f083d3
+m	java:S106"+Replace this use of System.out by a logger.(©±¶å8€ÚË‘2J$f6d15851-08f4-4cbe-9121-b58c37801390
+•
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¸ÄW8„ÚË‘2J$c59dd80a-7f3c-4ff8-a22f-f6946eb9da9c
+p
+java:S1481".Remove this unused "payemnts1" local variable.(¸ÄW8…ÚË‘2J$c102d102-53d7-4eb8-8c8f-5d21b80b9277
+›
+java:S1602%"SRemove useless curly braces around statement and then remove useless return keyword(º¦¢åûÿÿÿÿ8…ÚË‘2J$3d5d7c1a-56ee-4284-8f0e-63eaee801259
+r	java:S106."+Replace this use of System.out by a logger.(é–ÿ„ÿÿÿÿÿ8ˆÚË‘2J$e0a531dc-6dea-45df-b662-9220e577473c
+m	java:S1062"+Replace this use of System.out by a logger.(© éó8‰ÚË‘2J$a599b690-23d1-49c7-9a32-871020d0c0e5
+¡
+java:S42764"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(ª€‰ìúÿÿÿÿ8‰ÚË‘2J$4b6fda30-c8f6-4b00-bdec-643b4f08ff46
+z
+java:S16114"2Remove the parentheses around the "year" parameter(ª€‰ìúÿÿÿÿ8ŠÚË‘2J$81a7152b-b7bf-4e29-abbc-804bff07fcda
+r	java:S106:"+Replace this use of System.out by a logger.(ùàã½ûÿÿÿÿ8‹ÚË‘2J$fed4ea7e-09e8-4706-8c09-635c73045a21
+m	java:S106<"+Replace this use of System.out by a logger.(© éó8ŒÚË‘2J$5f919c90-b96f-4e2a-b0ca-dbc9d1a59a32
+”
+java:S4276?"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(õÈÈÍ8ŒÚË‘2J$bbdb7bcc-35f3-4210-a945-d6f00a6d4ce5
+r
+java:S1611?"/Remove the parentheses around the "i" parameter(õÈÈÍ8ŒÚË‘2J$6fffb85b-1474-43a3-81a1-c5a6c13412e4
+m	java:S106?"+Replace this use of System.out by a logger.(õÈÈÍ8ÚË‘2J$eb33bdf8-13b4-4090-a7c0-4c3d831f34f4
+m	java:S106B"+Replace this use of System.out by a logger.( ÒÉ8ÚË‘2J$4607c0be-7168-46d0-b026-19b5595ab344
+r	java:S106E"+Replace this use of System.out by a logger.(°è­‡üÿÿÿÿ8ÚË‘2J$ba2d6ec8-b60e-4923-a5b8-836451ae0e5b
+m	java:S106G"+Replace this use of System.out by a logger.( ÒÉ8ÚË‘2J$f6285f64-f639-456c-b3b5-f78195d88192
+•
+java:S4276J"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(«¸à÷8ÚË‘2J$6c1cd5a8-1405-4ffc-b5cb-b4bd89d116e7
+r
+java:S1611J"/Remove the parentheses around the "i" parameter(«¸à÷8ÚË‘2J$9ab2f432-6399-402c-8d5b-78d2f19f2d3e
+r	java:S106K"+Replace this use of System.out by a logger.(¿£Ø®üÿÿÿÿ8‘ÚË‘2J$5665fb44-595c-43cd-b47f-21915e61a24a
+m	java:S106L"+Replace this use of System.out by a logger.(´ÚÀş8‘ÚË‘2J$e9d43235-ec0f-4551-8f50-aee9ca44f59d
+l	java:S106M"+Replace this use of System.out by a logger.(Ãõ­8’ÚË‘2J$c5aeb573-7539-4d28-9653-56cd54e7fde1
+m	java:S106O"+Replace this use of System.out by a logger.(© éó8’ÚË‘2J$d7aed1f0-0826-49e2-a408-3fa1a18b3898
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8“ÚË‘2J$c78a9037-3db4-470a-b151-aca38fdb4b86
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8“ÚË‘2J$466c1c05-380d-45fd-b07b-a4649b32a28f

@@ -1,0 +1,25 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ŒÉúäùÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïí¢n
+V	java:S125
+"<This block of commented-out lines of code should be removed.(‰«ÿ×ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¶‰òà
+?	java:S106"+Replace this use of System.out by a logger.(ÖüÁx
+V	java:S125&"<This block of commented-out lines of code should be removed.(—æÎĞúÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(¯Ó²›üÿÿÿÿ
+E	java:S106Z"+Replace this use of System.out by a logger.(å·âëıÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(ŠÌÎŞ
+P	java:S1255"<This block of commented-out lines of code should be removed.(º¼ì]
+Q	java:S125<"<This block of commented-out lines of code should be removed.(Ø‡è
+Q	java:S125>"<This block of commented-out lines of code should be removed.(‘îÙ
+V	java:S125O"<This block of commented-out lines of code should be removed.(¨ÂÀöùÿÿÿÿ
+@	java:S106\"+Replace this use of System.out by a logger.(¶´Ò
+E	java:S106_"+Replace this use of System.out by a logger.(şˆŸ³ÿÿÿÿÿ
+E	java:S106c"+Replace this use of System.out by a logger.(Ç½åÿûÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'javax.swing.text.html.HTMLDocument'.(„˜Òùÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+N
+java:S1128"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊşÿÿÿÿ

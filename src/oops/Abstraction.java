@@ -3,11 +3,8 @@ package oops;
 public abstract class Abstraction {
    abstract void men();
    abstract void age();
-
-
-
-
 }
+
 class student extends  Abstraction{
 
     @Override

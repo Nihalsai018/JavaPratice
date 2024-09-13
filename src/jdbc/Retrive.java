@@ -1,6 +1,6 @@
 package jdbc;
 
-import com.mysql.jdbc.Driver;
+//import com.mysql.jdbc.Driver;
 
 import java.sql.*;
 
