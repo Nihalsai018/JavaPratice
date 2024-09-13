@@ -1,0 +1,22 @@
+
+ƒ
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»žJ$e9ee5967-d9ca-47ab-bb22-e9a1ca266e8d
+‰
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(þŠÎ¸úÿÿÿÿJ$1088b59c-33f2-4a4d-ad38-088ce94fc1ca
+X	java:S125"<This block of commented-out lines of code should be removed.(ö·öÞ8œˆéÁœ2
+e	java:S106"+Replace this use of System.out by a logger.(Ï…•lJ$f2d612de-c5f6-4565-b588-dc4afc1e30a3
+|	java:S125"<This block of commented-out lines of code should be removed.(öº›ÝÿÿÿÿÿJ$14ec2f4c-cf77-4e94-9611-30617ac6a805
+k	java:S106"+Replace this use of System.out by a logger.(”Ôó±øÿÿÿÿJ$d93970c4-3e12-44f2-a619-1984a6d1ae24
+w
+java:S6437"6Revoke and change this password, as it is compromised.(þŠÎ¸úÿÿÿÿJ$65c8d5e3-0d23-4988-9e26-aaaf79b4eca1
+f	java:S106"+Replace this use of System.out by a logger.(ãÄãöJ$9e5c28a7-2809-42b8-9630-952040282858
+k	java:S106"+Replace this use of System.out by a logger.(Û¡¼ÒüÿÿÿÿJ$9100a925-cad1-4ef5-a482-f9d07b25a90e
+`
+java:S6905"Don't use the query "SELECT *".(öº¹ŒþÿÿÿÿJ$e864911a-8ce3-41d0-bd21-2c495385e4b8
+k	java:S106!"+Replace this use of System.out by a logger.(¢ÃóüÿÿÿÿJ$5899bcde-12de-4d61-be58-a47835db7249
+w	java:S125""<This block of commented-out lines of code should be removed.(žòûûJ$951b5ad6-1655-4648-98c6-7415172048a8
+|	java:S125%"<This block of commented-out lines of code should be removed.(€Î¸ÚÿÿÿÿÿJ$f052df12-d5a6-400f-99e4-e528a70f3e64
+w	java:S125/"<This block of commented-out lines of code should be removed.(¼ôìÑJ$7312c981-5608-4b4c-b1b2-435193e9f18e
+k	java:S1063"+Replace this use of System.out by a logger.(óúãûÿÿÿÿJ$a0bb8d98-8de9-424b-80dc-e33ec314ed57
+k	java:S1065"+Replace this use of System.out by a logger.(•›ìùÿÿÿÿJ$ef38d84f-19d3-4128-b166-030c138cb592
+f	java:S1068"+Replace this use of System.out by a logger.(Ö Þ³J$26c42418-bda2-40fc-91fa-acd0fafa3781

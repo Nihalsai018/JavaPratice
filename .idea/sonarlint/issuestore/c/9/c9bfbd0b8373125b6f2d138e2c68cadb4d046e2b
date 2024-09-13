@@ -1,0 +1,30 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙÚÄéşÿÿÿÿJ$10e84a6f-ca24-48e4-a29f-bb8158d7f8ad
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆßŒıÿÿÿÿJ$118ecbf9-0c6b-41cb-bcaa-440ad86920c0
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öõÂúÿÿÿÿJ$c00e347b-09fa-4857-b247-66cdafbca3c6
+ˆ	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«Î ÿJ$62bb16c2-fa7a-4d0a-8a0a-78f84b0e3327
+ˆ	java:S101."MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©¡ÚğJ$01bfa86b-4267-4323-8185-7047d4b421a5
+ˆ
+java:S1223/"LRename this method to prevent any misunderstanding or make it a constructor.(¦ş—•J$19f46e05-1bdc-464f-86f5-35901377656a
+k	java:S106"+Replace this use of System.out by a logger.(’»’íıÿÿÿÿJ$088103fc-150c-4359-a617-38426715d553
+k	java:S106"+Replace this use of System.out by a logger.(¦ä—¡ûÿÿÿÿJ$d97284b5-d7ff-4666-9296-2e9be40f5013
+k	java:S106"+Replace this use of System.out by a logger.(›ØÂøÿÿÿÿJ$3319a944-8b49-44ab-adc4-34179d2058d1
+f	java:S106"+Replace this use of System.out by a logger.(Üö¸‘J$f1ce4e24-f067-46ff-8d1b-8488653151f2
+f	java:S106"+Replace this use of System.out by a logger.(äü÷¸J$ab8ec93e-7f62-41a4-90c8-2a7ef6b1c25b
+e	java:S106""+Replace this use of System.out by a logger.(º‡‘"J$7388e8b0-63f0-44e1-86d9-90ddc6883963
+f	java:S106("+Replace this use of System.out by a logger.(í‘õªJ$101c193a-6a72-4b44-a5b3-52484fd3f8bf
+k	java:S106+"+Replace this use of System.out by a logger.(›”ãüÿÿÿÿJ$5b88a371-fe08-40a8-8001-1eb0f14b737e
+w
+java:S18549"6Remove this useless assignment to local variable "m4".(ïìÜÃùÿÿÿÿJ$46df5d39-0be6-4b2d-885a-36d8667af1f2
+w
+java:S18548"6Remove this useless assignment to local variable "m3".(ÇÂÎüşÿÿÿÿJ$77dfbed5-cf5b-40b6-8964-a0cb31ed35a0
+w
+java:S18547"6Remove this useless assignment to local variable "m2".(­ÁõçüÿÿÿÿJ$588660a7-c5cd-44bc-b055-022d2ea197ac
+f
+java:S11725"+Remove this unused method parameter "args".(ì‘¨'J$637af8c4-3e53-4605-901c-c54e83f2725f
+h
+java:S14817"'Remove this unused "m2" local variable.(­ÁõçüÿÿÿÿJ$7e89bc91-eff1-4ba5-85a0-49dda20e5e9a
+h
+java:S14818"'Remove this unused "m3" local variable.(ÇÂÎüşÿÿÿÿJ$baef98c7-65ca-4783-8f5d-9176e1010aa2
+h
+java:S14819"'Remove this unused "m4" local variable.(ïìÜÃùÿÿÿÿJ$9da84c1b-9306-482f-8efb-e7d6b5831d0f

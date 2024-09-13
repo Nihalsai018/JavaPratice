@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­»·‹øÿÿÿÿ8Ô¾Å2J$9766b985-6721-487b-b9b5-1f9ef00d50c6
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8İ¾Å2J$1db233b7-f8b0-420b-83bd-155f112a6341
+€
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8İ¾Å2J$424d8549-6147-4bfe-beeb-bc7aba8faf2f
+{
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8İ¾Å2J$9722ee32-e8fe-478d-9a3b-bcb738145679
+|
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8İ¾Å2J$b4750280-a9aa-4976-b7be-4eaa34225b86
+{
+java:S1128"8Remove this unused import 'java.util.function.Supplier'.(†ïÿ‘8Ş¾Å2J$08d8ecbf-17ef-4907-a976-27c2fc50bb50
